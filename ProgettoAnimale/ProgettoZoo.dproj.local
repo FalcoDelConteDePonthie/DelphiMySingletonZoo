@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/11/28 13:20:15.000.795,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/11/28 13:20:41.000.557,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit5.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Unit5.pas</Transaction>
+    <Transaction>2020/11/28 13:20:41.000.557,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit5.dfm=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Unit5.dfm</Transaction>
+    <Transaction>2020/11/28 13:21:02.000.081,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Zoo.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit5.pas</Transaction>
+    <Transaction>2020/11/28 13:21:02.000.081,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Zoo.dfm=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit5.dfm</Transaction>
+    <Transaction>2020/11/28 13:21:38.000.339,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\ProgettoZoo.dproj=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Project6.dproj</Transaction>
+    <Transaction>2020/11/28 13:25:37.000.274,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Animale.pas</Transaction>
+    <Transaction>2020/11/28 13:26:12.000.753,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\Animale.pas=</Transaction>
+    <Transaction>2020/11/28 13:26:20.000.499,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 13:26:33.000.759,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Animale.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 17:51:04.000.088,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 17:51:17.000.760,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Cane.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 20:17:00.000.304,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/28 20:17:17.000.127,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Gatto.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 11:37:54.000.699,=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/29 11:38:18.000.322,C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\AnimaliDelloZoo.pas=C:\Users\ghiri\OneDrive\Documenti\Embarcadero\Studio\Projects\ProgettoAnimale\Unit1.pas</Transaction>
+    <Transaction>2020/11/30 10:03:01.000.724,=C:\Users\Ghirelli\Desktop\ProgettoAnimale\Animale\Camaleonte.pas</Transaction>
+    <Transaction>2020/11/30 10:04:29.000.053,=C:\Users\Ghirelli\Desktop\ProgettoAnimale\Animale\Cane.pas</Transaction>
+    <Transaction>2020/11/30 10:04:29.000.033,=C:\Users\Ghirelli\Desktop\ProgettoAnimale\Animale\Animale.pas</Transaction>
+    <Transaction>2020/11/30 10:04:29.000.074,=C:\Users\Ghirelli\Desktop\ProgettoAnimale\Animale\Gatto.pas</Transaction>
+    <Transaction>2020/11/30 10:04:38.000.012,=C:\Users\Ghirelli\Desktop\ProgettoAnimale\Singleton\AnimaliDelloZoo.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="Animale"/>
+    <File Path="Animale\Animale.pas"/>
+    <File Path="Animale\Camaleonte.pas"/>
+    <File Path="Animale\Cane.pas"/>
+    <File Path="Animale\Gatto.pas"/>
+    <File Path="Singleton"/>
+    <File Path="Singleton\AnimaliDelloZoo.pas"/>
+    <File Path="Zoo.pas"/>
+    <File Path="Zoo.dfm"/>
+  </ProjectSortOrder>
+</BorlandProject>
